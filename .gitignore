@@ -2,3 +2,9 @@
 a.out
 *~
 /.idea
+*.bc
+/build
+/dist
+/queue
+/ringstat.c
+/*.egg-info
